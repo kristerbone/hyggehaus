@@ -46,7 +46,7 @@ export function Navigation() {
 
   const navItems = [
     { href: '#home', label: 'Home' },
-    { href: '#about', label: 'About' },
+    { href: '#our-story', label: 'Our Story' },
     { href: '#lighting', label: 'Lighting' },
     { href: '#community', label: 'Community' },
     { href: '#contact', label: 'Contact' },

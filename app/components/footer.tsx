@@ -15,7 +15,7 @@ export function Footer() {
             <ul className="footer-links">
               <li>
                 <a href="mailto:hello@hyggehaus.com" className="footer-link">
-                  hello@hyggehaus.com
+                  hello@hyggehaus.life
                 </a>
               </li>
               <li>
