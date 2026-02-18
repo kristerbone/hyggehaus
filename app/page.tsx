@@ -78,7 +78,7 @@ export default function HomePage() {
       <Section id="home" className="hero-section">
         <div className="container">
           <h1 className="logo">HyggeHaus</h1>
-          <p className="tagline">Where Scandinavian hygge meets house & techno</p>
+          <p className="tagline">Where Scandinavian hygge meets German techno</p>
           
           <div className="main-message">
             <p>

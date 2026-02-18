@@ -6,7 +6,7 @@ export function Footer() {
           <div className="footer-section">
             <h3 className="footer-logo">HyggeHaus</h3>
             <p className="footer-tagline">
-              Where Scandinavian hygge meets house & techno
+              Where Scandinavian hygge meets German techno
             </p>
           </div>
 

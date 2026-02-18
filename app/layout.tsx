@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'HyggeHaus - Coming Soon',
-  description: 'Where Scandinavian hygge meets house & techno',
+  description: 'Where Scandinavian hygge meets German techno',
 }
 
 interface RootLayoutProps {
